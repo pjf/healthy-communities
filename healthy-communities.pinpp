@@ -8,7 +8,13 @@
 --
 @include <intro.pin>
 @include <ckan.pin>
+@include <github.pin>
 @include <code-of-conduct.pin>
 @include <license.pin>
 @include <diverse-leadership.pin>
 @include <creativity.pin>
+@include <easy-tasks.pin>
+@include <non-code.pin>
+@include <advance-others.pin>
+@include <dont-know-everything.pin>
+@include <leadership.pin>
