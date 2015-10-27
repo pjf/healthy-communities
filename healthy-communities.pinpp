@@ -20,3 +20,4 @@
 @include <dont-know-everything.pin>
 @include <leadership.pin>
 @include <shout-outs.pin>
+@include <outro.pin>
