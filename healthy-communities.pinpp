@@ -7,6 +7,7 @@
 
 --
 @include <intro.pin>
+@include <psych.pin>
 @include <ckan.pin>
 @include <github.pin>
 @include <code-of-conduct.pin>
@@ -18,3 +19,4 @@
 @include <advance-others.pin>
 @include <dont-know-everything.pin>
 @include <leadership.pin>
+@include <shout-outs.pin>
