@@ -8,8 +8,8 @@ Welcome them!
 # People who feel welcome
 # are more likely to stick around
 --
-People who are welcomed
-are more likely to welcome others
+More likely to
+welcome others
 --
 Give people
 permissions they
@@ -21,15 +21,17 @@ process
 
 # Even if it's just the CoC
 --
-Make sure everyone knows
-they can help others
+Encourage
+helping others
 --
-Make sure everyone knows
-they can make decisions
+Encourage
+decision-making
 --
-Don't be a bottleneck
-Find a way to distribute roles
-# (pic)
+Don't be a
+bottleneck
+--
+Distribute
+roles
 --
 Robust
 development
@@ -40,7 +42,7 @@ processes
 # help your community by
 # making contributing safer
 --
-Git =
+Git →
 Easier rollbacks
 --
 Continuous
@@ -49,5 +51,5 @@ integration
 Pull requests
 + code review
 --
-Automated release
-processes
+Automated
+releases
