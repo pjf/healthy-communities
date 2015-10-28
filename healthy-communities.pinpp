@@ -18,6 +18,9 @@
 @include <non-code.pin>
 @include <advance-others.pin>
 @include <dont-know-everything.pin>
-@include <leadership.pin>
-@include <shout-outs.pin>
+
+# @include <leadership.pin>
+# @include <shout-outs.pin>
+
+@include <beatup.pin>
 @include <outro.pin>
