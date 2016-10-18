@@ -10,6 +10,8 @@ Requirements: `perl`, `make`, `pinpoint`.
 
 To build:
 
-1. `make` will build the slide deck
-2. `./healthy-communities.pin` will start the presentation.
+1. Install `pinpp`, the pinpoint pre-processor (`cpanm App::Pinpp`)
+1. Install `pintpoint`, a neat presentation tool (`apt-get install pinpoint`)
+1. `make`
+1. `./healthy-communities.pin`
 
