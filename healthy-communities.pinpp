@@ -6,20 +6,22 @@
 [text-align=center]
 
 --
-@include <intro.pin>
-@include <psych.pin>
-@include <ckan.pin>
-@include <github.pin>
+// @include <intro.pin>
+
+@include <intro-ckan.pin>
+// @include <ckan.pin>
 @include <code-of-conduct.pin>
-@include <license.pin>
+@include <psych.pin>
+@include <dont-know-everything.pin>
+@include <leadership.pin>
 @include <diverse-leadership.pin>
+//@include <github.pin>
+// @include <license.pin>
 @include <creativity.pin>
 @include <easy-tasks.pin>
 @include <non-code.pin>
 @include <advance-others.pin>
-@include <dont-know-everything.pin>
 
-# @include <leadership.pin>
 # @include <shout-outs.pin>
 
 @include <beatup.pin>

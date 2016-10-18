@@ -1,0 +1,74 @@
+Building Healthy Open Source Communities
+<span font="100px">...In Space</span>
+
+<span font="150">Paul '@pjf' Fenwick</span>
+
+<span font="50px">Presentation and slides CC-BY Paul Fenwick</span>
+
+# Oh hey, you're reading the source. Magic numbers as font
+# sizes suck. Sorry if you're not using 1920x1080; patches totally
+# welcome! <3
+
+-- [images/kerbal.jpeg]
+
+# A couple of years ago, I was asked to write a book on KSP
+
+-- [images/kerbal-cover.jpg]
+
+# That's done, so we're happy.
+
+-- [images/ckan-todo.jpg]
+
+# But there was no good way to install mods.
+
+--
+5 weeks
+--
+300 hours
+
+-- [images/ckan-256.png]
+
+# CKAN v1.0.0
+
+-- [images/ckan.png]
+
+# Cross-platform, MIT licensed,
+# mod management patform for
+# Kerbal Space Programme
+
+-- [images/github.jpg]
+
+# Github commits graph
+--
+apt-get
+for
+KSP
+--
+1 year
+--
+32,000+ active users
+--
+200+ contributors
+--
+117,000+ users
+March 2016
+--
+~400 contributors
+--
+Decades of
+human joy
+delivered
+
+# Per month
+--
+What went
+right?
+--
+What went
+wrong?
+--
+Mix of
+observations
+--
+...and
+personal therapy
